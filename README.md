@@ -31,7 +31,7 @@ Opening Books:
 **If you would like to run bot locally on PC, read the [lichess-bot manual](https://github.com/ShailChoksi/lichess-bot#how-to-install).**
 
 ## Acknowledgements
-Credits to [ShailChoksi's lichess-bot](https://github.com/ShailChoksi/lichess-bot).
+Credits to [ShailChoksi's lichess-bot](https://github.com/ShailChoksi/lichess-bot) . And also [OIVAS7572 BOT](https://github.com/OIVAS7572/lichess-bot).
 
 ## License
 This code is primarily taken from [lichess-bot by ShailChoksi](https://github.com/ShailChoksi/lichess-bot) and is hence run under the AGPLv3 License (or later at your option). Check out the [LICENSE file](/LICENSE) for full text.
